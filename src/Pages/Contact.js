@@ -134,7 +134,7 @@ export const ContactMe = React.memo(function ContactMe() {
 
       <Link
         target="_blank"
-        href= {IsraelVarela-Resume-2022.pdf}
+        href= {Pdf}
       >
         <Grid item xs={6} sm={3}>
           <CustomCard
