@@ -17,7 +17,7 @@ Welcome to my portfolio that showcases my journey into coding and development. T
 
 ## Links
 GitHub Repo: https://github.com/israelvarela/Israel-Varela-Portfolio-React-  
-GitHub Pages:  https://israelvarela.github.io/Israel-Varela-Portfolio-React-/  
+GitHub Pages:  https://israelvarela.github.io/IV-Portfolio/ 
 
 ## Screenshots
 
