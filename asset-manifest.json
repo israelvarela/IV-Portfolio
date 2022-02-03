@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iv-portfolio/static/css/main.4f46d8ca.chunk.css",
+    "main.js": "/iv-portfolio/static/js/main.b6345356.chunk.js",
+    "main.js.map": "/iv-portfolio/static/js/main.b6345356.chunk.js.map",
+    "runtime~main.js": "/iv-portfolio/static/js/runtime~main.cd001f4a.js",
+    "runtime~main.js.map": "/iv-portfolio/static/js/runtime~main.cd001f4a.js.map",
+    "static/js/2.567b5075.chunk.js": "/iv-portfolio/static/js/2.567b5075.chunk.js",
+    "static/js/2.567b5075.chunk.js.map": "/iv-portfolio/static/js/2.567b5075.chunk.js.map",
+    "static/js/3.ba42e49a.chunk.js": "/iv-portfolio/static/js/3.ba42e49a.chunk.js",
+    "static/js/3.ba42e49a.chunk.js.map": "/iv-portfolio/static/js/3.ba42e49a.chunk.js.map",
+    "index.html": "/iv-portfolio/index.html",
+    "precache-manifest.7fb60fcd554895da18b71e1fedbef293.js": "/iv-portfolio/precache-manifest.7fb60fcd554895da18b71e1fedbef293.js",
+    "service-worker.js": "/iv-portfolio/service-worker.js",
+    "static/css/main.4f46d8ca.chunk.css.map": "/iv-portfolio/static/css/main.4f46d8ca.chunk.css.map",
+    "static/media/IsraelVarela-Resume-2022.pdf": "/iv-portfolio/static/media/IsraelVarela-Resume-2022.2fee458c.pdf",
+    "static/media/israelVarelaCommercialHS.jpg": "/iv-portfolio/static/media/israelVarelaCommercialHS.cfa617ea.jpg",
+    "static/media/israelVarelaHS2.jpg": "/iv-portfolio/static/media/israelVarelaHS2.b025c589.jpg",
+    "static/media/israelVarelaHS3.jpg": "/iv-portfolio/static/media/israelVarelaHS3.0e03bad4.jpg",
+    "static/media/israelVarelaHS4.jpg": "/iv-portfolio/static/media/israelVarelaHS4.3096c074.jpg"
+  }
+}
