@@ -100,9 +100,7 @@ const CustomCard = ({ classes, image, title, subtitle, subtitle2 }) => {
 export const ContactMe = React.memo(function ContactMe() {
   const gridStyles = useGridStyles();
   const styles = useStyles({ color: "#000000" });
-  //   const styles2 = useStyles({ color: "#4d137f" });
-  //   const styles3 = useStyles({ color: "#ff9900" });
-  //   const styles4 = useStyles({ color: "#34241e" });
+  
   return (
     <div className="contactCard">
     <Grid classes={gridStyles} container spacing={10} >
