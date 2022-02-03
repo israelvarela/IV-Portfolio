@@ -14,13 +14,11 @@ function App() {
     <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Header />
-        <Layout>
         <Routes>
           <Route exact path="/, /about" element={<About/>} />
           <Route exact path="/projects" element={<Projects/>} />
           <Route exact path="/contact" element={<Contact/>} />
         </Routes>
-        </Layout>
         <Footer />
       </div>
     </Router>
