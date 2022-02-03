@@ -8,6 +8,7 @@ import Footer from "./components/Footer/footer";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 
+
 function App() {
   return (
     <Router basename={process.env.PUBLIC_URL}>
