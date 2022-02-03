@@ -1,5 +1,5 @@
 {
-  "homepage": "https://israelvarela.github.io/iv-portfolio",
+  "homepage": "https://israelvarela.github.io/iv-portfolio/",
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +14,7 @@
     "@testing-library/user-event": "^12.2.2",
     "@types/react-router-dom": "^5.3.3",
     "material-ui": "^0.15.0",
+    "prop-types": "^15.8.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-google-font-loader": "^1.1.0",
