@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './style.css';
 import israel from "../../images2/israelVarelaLogo2.png";
-import {Link} from "react";
+import Link from "@material-ui/core/Link";
 
 
 export default class Header extends Component {

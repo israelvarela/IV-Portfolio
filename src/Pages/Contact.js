@@ -9,7 +9,7 @@ import CardActionArea from "@material-ui/core/CardActionArea";
 import Card from "@material-ui/core/Card";
 import CardContent from "@material-ui/core/CardContent";
 import CardMedia from "@material-ui/core/CardMedia";
-import { useFourThreeCardMediaStyles } from "@mui-treasury/styles/cardMedia/fourThree";
+// import { useFourThreeCardMediaStyles } from "@mui-treasury/styles/cardMedia/fourThree";
 // import { AutoComplete } from "material-ui";
 import Link from "@material-ui/core/Link";
 import image from "../images2/israelVarelaCommercialHS.jpg";
@@ -19,6 +19,7 @@ import image4 from "../images2/israelVarelaHS4.jpg";
 import "../components/Header/style.css";
 import "./style.css";
 import Pdf from '../images2/IsraelVarela-Resume-2022.pdf';
+
 
 const useGridStyles = makeStyles(({ breakpoints }) => ({
   root: {
