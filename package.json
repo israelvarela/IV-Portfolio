@@ -1,6 +1,6 @@
 {
-  "homepage": ".",
-  "name": "react-portfolio",
+  "homepage": "https://israelvarela.github.io/iv-portfolio/",
+  "name": "iv-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
