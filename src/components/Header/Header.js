@@ -14,13 +14,13 @@ export default class Header extends Component {
 
                 <div className="nav">
                 <p>
-                    <Link to="/About">About Me</Link>
+                    <Link to="/about">About Me</Link>
                 </p>
                 <p>
-                    <Link to="/Projects">Projects</Link>
+                    <Link to="/projects">Projects</Link>
                 </p>
                 <p>
-                    <Link to="/Contact">Contact</Link>
+                    <Link to="/contact">Contact</Link>
                 </p>
                 </div>
             </div>
