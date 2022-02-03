@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './style.css';
 import israel from "../../images2/israelVarelaLogo2.png";
-import {Link} from "react-router-dom";
+import {Link} from "react";
 
 
 export default class Header extends Component {
